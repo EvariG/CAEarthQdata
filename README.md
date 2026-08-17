@@ -4,8 +4,8 @@ Python notebook with linear regression of observed EarthQuakes in California. Da
 You can edit the Api to include EQ data from any state for any measurable earthquake. However, this api has limitations in how much data can be pulled in a session. Therefore, I am only utilizing data from events between 1990 and June 31, 2026 in CA & NV with magnitudes greater than or equal to 4.
 
 Use this for other locations and analyze how observed seismic events align with the Gutenberg-richter law!
--The lower the b-value the smaller the ratio of small:large EQ ( and more large earthquakes compared to small ones)
--The lower the b-value the more potential for danger within the chosen location
+<p>-The lower the b-value the smaller the ratio of small:large EQ ( and more large earthquakes compared to small ones)</p>
+<p>-The lower the b-value the more potential for danger within the chosen location</p>
 
 Data source:
 
