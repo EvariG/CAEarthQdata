@@ -24,7 +24,7 @@ Potential enhancements for future iterations include:
 Contributions, suggestions, and collaborations are welcome. :)
 
 
-
+## Citation
 Data source:
 
 U.S. Geological Survey, 2017, Advanced National Seismic System (ANSS) Comprehensive Catalog, accessed via USGS API at https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=1990-01-01&endtime=2026-06-31&minlatitude=32.5&minlongitude=-124.5&maxlatitude=42.0&maxlongitude=-114.1&minmagnitude=4.0
